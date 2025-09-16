@@ -1,1 +1,1 @@
-Check Online : https://shinbazakura.github.io/Personal-Website/
+Check with Github Pages : https://shinbazakura.github.io/Personal-Website/
